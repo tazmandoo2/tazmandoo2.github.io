@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+}
+body {
+  background-color: orange;
+   height: 100%;
+}
+
+header {
+
+    color:blue;
+    padding:10px;
+    font-size:50 ;
+    display: block;
+    width: 790px;
+}
+nav {
+    line-height:;
+    background-color:;
+    width:125px;
+    display: inline-block;
+    vertical-align: top;
+}
+nav ul {
+    list-style-type: none;
+    font-size: 20px;
+}
+a {
+    color: ;
+}
+section {
+    width: 516px;
+    display: inline-block;
+}
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:grey;
+  font-size: ;
+}
+aside ul {
+    list-style-type: none;
+}
+footer {
+    width: 790px;
+    background-color:;
+    text-align:;
+    padding:5px;
+    display: block;
+}
+article{
+  background-color: gray;
+  font-size:25px;
+}
